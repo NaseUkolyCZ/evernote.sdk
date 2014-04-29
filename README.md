@@ -1,4 +1,4 @@
 evernote.sdk
 ============
 
-Evernote SDK NuGet
+Evernote SDK (https://github.com/evernote/evernote-sdk-csharp) NuGet

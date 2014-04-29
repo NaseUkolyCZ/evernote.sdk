@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Evernote.SDK</id>
+    <title>
+      Evernote SDK for C#
+    </title>
+    <version>1.25</version>
+    <authors>NašeÚkoly.CZ s.r.o</authors>
+    <owners>NašeÚkoly.CZ s.r.o.</owners>
+    <licenseUrl>https://github.com/evernote/evernote-sdk-csharp</licenseUrl>
+    <projectUrl>https://github.com/NaseUkolyCZ/evernote.sdk</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains the DLLs from software development kit for Evernote</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2007-2012 by Evernote Corporation</copyright>
+    <tags>Evernote SDK</tags>
+  </metadata>
+</package>
